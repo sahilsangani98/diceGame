@@ -1,5 +1,3 @@
-//Author1 Sahil Sangani
-//Author2 Vishwarajsinh Vala  
 //server
 #include <sys/socket.h>
 #include <netinet/in.h>
