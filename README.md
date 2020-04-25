@@ -1,4 +1,4 @@
-# clientserversocket
+
 A small multiple client server dice game to demonstrate workings of socket programming in C.
 
 Steps for Running the Server
