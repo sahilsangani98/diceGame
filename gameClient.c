@@ -1,5 +1,3 @@
-//Author1 Sahil Sangani
-//Author2 Vishwarajsinh Vala  
 //client
 #include <time.h>
 #include <string.h>
